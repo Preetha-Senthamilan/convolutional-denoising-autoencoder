@@ -133,7 +133,8 @@ plt.title('Training Loss vs. Validation Loss\nPREETHA S - 212222230110')
 ## OUTPUT
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-![Screenshot 2024-11-17 112442](https://github.com/user-attachments/assets/b0f48ab5-62b6-403b-8a90-a29f631971e4)
+
+![Screenshot 2024-11-17 112742](https://github.com/user-attachments/assets/b0abb924-bfb3-461b-80ea-e3a13c2ed24d)
 
 
 
